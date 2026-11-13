@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "talks/devgroup2026.html",
+    "href": "talks/devgroup2026.html",
+    "title": "Build your own website with Quarto",
+    "section": "",
+    "text": "Slides and abstract go here."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "test\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nlocation\n\n\n\n\n\n\nNov 13, 2026\n\n\nBuild your own website with Quarto\n\n\nAstrophysics Developer Group, Bristol\n\n\n\n\nJul 21, 2026\n\n\nGeometric models of the corona\n\n\nNAM 2026, Birmingham\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "resarch.html",
+    "href": "resarch.html",
+    "title": "Research",
+    "section": "",
+    "text": "I model how the shape of the corona changes the illumination of the disc\n\n\n\n\n\n\nPaper in preparation\n\n\n\nPapers will be listed on NASA ADS."
+  },
+  {
+    "objectID": "resarch.html#current-project",
+    "href": "resarch.html#current-project",
+    "title": "Research",
+    "section": "",
+    "text": "I model how the shape of the corona changes the illumination of the disc\n\n\n\n\n\n\nPaper in preparation\n\n\n\nPapers will be listed on NASA ADS."
+  },
+  {
+    "objectID": "talks/nam2026.html",
+    "href": "talks/nam2026.html",
+    "title": "Geometric models of the corona",
+    "section": "",
+    "text": "Slides and abstract go here."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Darius Michienzi",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
