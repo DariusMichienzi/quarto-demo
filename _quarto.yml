@@ -1,0 +1,30 @@
+project:
+  type: website
+
+website:
+  title: "Darius Michienzi"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Resarch
+      - href: talks.qmd
+        text: Talks
+      - text: CV
+        href: files/cv.pdf
+    right:
+      - icon: github
+        href: https://github.com/DariusMichienzi
+        aria-label: GitHub
+  page-footer:
+    center: "© 2026 Darius Michienzi"
+
+format:
+  html:
+    theme:
+      light: yeti
+      dark: sandstone
+    respect-user-color-scheme: true
+    css: styles.css
+    toc: true

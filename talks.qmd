@@ -1,0 +1,9 @@
+---
+title: "Talks"
+listing:
+  contents: talks
+  type: table
+  sort: "date desc"
+  fields: [date, title, location]
+---
+test

@@ -1,0 +1,23 @@
+---
+title: "Darius Michienzi"
+subtitle: "PhD student in astrophysics"
+toc: false
+image: images/profile.png
+about:
+  template: solana
+  image-shape: round
+  image-width: 12em
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/DariusMichienzi
+    - icon: envelope
+      text: Email
+      href: mailto:darius.michienzi@bristol.ac.uk
+    - text: ORCID
+      href: https://orcid.org/0009-0003-0123-9718
+---
+
+This is a Quarto website.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
