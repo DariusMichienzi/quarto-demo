@@ -1,0 +1,8 @@
+---
+title: "Build your own academic website with Quarto"
+date: 2026-11-13
+location: "Astrophysics Developer Group Bristol"
+---
+
+![](../files/Website.pdf){width=100% height=800}
+

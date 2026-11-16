@@ -7,11 +7,18 @@
     "text": "About this site"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Darius Michienzi",
+    "objectID": "talks/devgroup2026.html",
+    "href": "talks/devgroup2026.html",
+    "title": "Build your own website with Quarto",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Slides and abstract go here."
+  },
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nlocation\n\n\n\n\n\n\nNov 13, 2026\n\n\nBuild your own academic website with Quarto\n\n\nAstrophysics Developer Group Bristol\n\n\n\n\nJul 21, 2026\n\n\nGeometric models of the corona\n\n\nNAM 2026, Birmingham\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resarch.html",
@@ -35,17 +42,374 @@
     "text": "Slides and abstract go here."
   },
   {
-    "objectID": "talks.html",
-    "href": "talks.html",
-    "title": "Talks",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Darius Michienzi",
     "section": "",
-    "text": "test\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nlocation\n\n\n\n\n\n\nNov 13, 2026\n\n\nBuild your own website with Quarto\n\n\nAstrophysics Developer Group, Bristol\n\n\n\n\nJul 21, 2026\n\n\nGeometric models of the corona\n\n\nNAM 2026, Birmingham\n\n\n\n\n\nNo matching items"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "talks/devgroup2026.html",
-    "href": "talks/devgroup2026.html",
-    "title": "Build your own website with Quarto",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Slides and abstract go here."
+    "text": "I model how the shape of the corona changes the illumination of the disc\n\n\n\n\n\n\nPaper in preparation\n\n\n\nPapers will be listed on NASA ADS."
+  },
+  {
+    "objectID": "research.html#current-project",
+    "href": "research.html#current-project",
+    "title": "Research",
+    "section": "",
+    "text": "I model how the shape of the corona changes the illumination of the disc\n\n\n\n\n\n\nPaper in preparation\n\n\n\nPapers will be listed on NASA ADS."
+  },
+  {
+    "objectID": "talks/slides.html#section",
+    "href": "talks/slides.html#section",
+    "title": "Darius Michienzi",
+    "section": "",
+    "text": "Astrophysics Developer Group · tutorial and live demo\n\n\n\nBuild your own academic website with Quarto\n\n\nWins\n\n\nIssues\n\n\nNews\n\n\nBackup reminder\n\n\nBuild your own academic website with Quarto\n\n\n\nDarius Michienzi\n\n\nAstrophysics Group, School of Physics, University of Bristol\ndariusmichienzi.github.io\n\n\n\n\nWelcome. By the end of the session everyone should have a website that is live on the internet, or be one push away from it. Mostly live demo; the slides are there to come back to."
+  },
+  {
+    "objectID": "talks/slides.html#the-plan-for-today",
+    "href": "talks/slides.html#the-plan-for-today",
+    "title": "Darius Michienzi",
+    "section": "The plan for today",
+    "text": "The plan for today\n\n\nStep 1\n\nCreate\nMake a project with one command and preview it in your browser.\n\n\n\nStep 2\n\nConfigure\nSet the title, navigation bar and theme in one file, _quarto.yml.\n\n\n\nStep 3\n\nWrite\nAdd a home page, research and talks pages, and your CV.\n\n\n\nStep 4\n\nPublish\nPush to GitHub and let GitHub Pages host it for free.\n\n\n\n\nGoal By the end you have a live site at username.github.io that rebuilds itself every time you push a change.\n\nThe slides and notes will be made available after the presentation\n\nFour steps. Steps 1 to 3 happen on your laptop and nobody can see them yet. Step 4 is when it goes public."
+  },
+  {
+    "objectID": "talks/slides.html#what-youll-build",
+    "href": "talks/slides.html#what-youll-build",
+    "title": "Darius Michienzi",
+    "section": "What you’ll build",
+    "text": "What you’ll build\n\n\n\n\n\nThe demo site built today, shown in light mode. Same source, dark mode on the next slides.\n\n\n\n\nPeople look you up after a talk, before an interview, when reviewing an application. A site is the page you control.\nOne place that links your CV, ORCID, ADS library, GitHub and talks.\nQuarto turns plain Markdown files into a clean, searchable website with light and dark modes.\nHosting on GitHub Pages is free, and there is no server to look after.\n\n\n Quarto also makes notebooks, papers and slides. This presentation is a Quarto file, written the same way as the website.\n\n\n\n\nShow my own site briefly in a browser tab here, then come back."
+  },
+  {
+    "objectID": "talks/slides.html#how-the-pieces-fit-together",
+    "href": "talks/slides.html#how-the-pieces-fit-together",
+    "title": "Darius Michienzi",
+    "section": "How the pieces fit together",
+    "text": "How the pieces fit together\n\n\n\nOn your laptop You edit .qmd files: Markdown text with a short YAML header. quarto preview shows the result as you type.\n\n\nThe build quarto render turns the project into ordinary HTML, CSS and JavaScript in a folder called _site/.\n\n\nOn GitHub The repository holds the source. GitHub Pages serves the built site at username.github.io.\n\n\n\n The finished website is just a folder of files. That’s why hosting it costs nothing and almost nothing can break.\n\n\nThe one idea to hold onto: you edit source files, Quarto builds plain files, GitHub serves them."
+  },
+  {
+    "objectID": "talks/slides.html#before-you-start",
+    "href": "talks/slides.html#before-you-start",
+    "title": "Darius Michienzi",
+    "section": "Before you start",
+    "text": "Before you start\n\n\nInstall\nQuarto\nquarto.org → Get started\n\n\nEditor\nVS Code\nor whatever you prefer\n\n\nVersion control\nGit\nplus your name and email set\n\n\nHosting\nGitHub\na free account\n\n\n\n\n\n\nTerminal: check everything works\n\nquarto check\ngit --version\n\n\n\nIf something is missing quarto check lists what Quarto found. You only need the Quarto part to pass; Python, R and Julia are optional for a website.\n\n\n\n\nMost people should have done this from the pre-session email. Give two minutes for anyone who hasn’t."
+  },
+  {
+    "objectID": "talks/slides.html#create-a-project-and-preview-it",
+    "href": "talks/slides.html#create-a-project-and-preview-it",
+    "title": "Darius Michienzi",
+    "section": "Create a project and preview it",
+    "text": "Create a project and preview it\n\n\n\n\nTerminal\n\nquarto create project website mysite \"My Site\"\ncd mysite\nquarto preview\n\n\nquarto create makes a folder with four starter files.\nquarto preview builds the site and opens it in your browser.\nLeave it running. Every time you save, the page reloads.\n\n\n\n\nWhat you should see A page titled “My Site” with Home and About in the navigation bar, at an address like http://localhost:4200.\n\n\nIn VS Code Open the mysite folder, then use the Preview button on any .qmd file instead of the terminal.\n\n\nStop the preview Ctrl+C in the terminal. Run quarto preview again whenever you come back.\n\n\n\n\n\nType it live. Point out how fast the preview is. Edit index.qmd, save, and watch it reload."
+  },
+  {
+    "objectID": "talks/slides.html#whats-in-the-folder",
+    "href": "talks/slides.html#whats-in-the-folder",
+    "title": "Darius Michienzi",
+    "section": "What’s in the folder",
+    "text": "What’s in the folder\n\n\n\n\n\n\n\n\n\nFile\nWhat it does\n\n\n\n\n_quarto.yml\nSettings for the whole site: title, navigation, theme\n\n\nindex.qmd\nThe home page. Becomes index.html\n\n\nabout.qmd\nAn example second page. Rename or delete it\n\n\nstyles.css\nYour own CSS tweaks (empty to start)\n\n\n_site/\nThe built website. Never edit it: it is overwritten on every build\n\n\n.quarto/\nQuarto’s cache. Ignore it\n\n\n\n\n\n\nindex.qmd\n\n---\ntitle: \"My Site\"\n---\n\nThis is a Quarto website.\n\n\nAnatomy of a .qmd file A YAML header between the --- lines holds settings for that page. Everything below it is ordinary Markdown.\n\n\n\n\nEach .qmd file becomes one page. The only “special” file is _quarto.yml."
+  },
+  {
+    "objectID": "talks/slides.html#quarto.yml-what-controls-the-whole-site",
+    "href": "talks/slides.html#quarto.yml-what-controls-the-whole-site",
+    "title": "Darius Michienzi",
+    "section": "_quarto.yml: what controls the whole site",
+    "text": "_quarto.yml: what controls the whole site\n\n\n\n\n\n_quarto.yml\n\nproject:\n  type: website\n\nwebsite:\n  title: \"Darius Michienzi\"\n  navbar:\n    left:\n      - href: index.qmd\n        text: Home\n      - research.qmd\n      - talks.qmd\n      - text: CV\n        href: files/cv.pdf\n    right:\n      - icon: github\n        href: https://github.com/DariusMichienzi\n        aria-label: GitHub\n  page-footer:\n    center: \"© 2026 Darius Michienzi\"\n\nformat:\n  html:\n    theme:\n      light: cosmo\n      dark: darkly\n    respect-user-color-scheme: true\n    css: styles.css\n    toc: true\n\n\n\n\n\nwebsite → navbar Pages in the order they appear. A page listed by file name takes its title as the link text. icon: uses any Bootstrap icon name.\n\n\npage-footer Text at the bottom of every page: left, center or right.\n\n\nformat → html How every page looks: theme, your CSS, and a table of contents on the right.\n\n\nIndentation matters YAML uses spaces, never tabs.\n\n\n\n\n\nStep through the highlighted parts with the arrow keys. Edit the title live so they see it change."
+  },
+  {
+    "objectID": "talks/slides.html#light-dark-and-following-the-visitor",
+    "href": "talks/slides.html#light-dark-and-following-the-visitor",
+    "title": "Darius Michienzi",
+    "section": "Light, dark, and following the visitor",
+    "text": "Light, dark, and following the visitor\n\n\n\n\nlight: cosmo\n\n\n\n\n\ndark: darkly\n\n\n\n\n\n\n\n_quarto.yml\n\nformat:\n  html:\n    theme:\n      light: cosmo\n      dark: darkly\n    respect-user-color-scheme: true\n\n\n\n\nAny of the 25 Bootswatch themes works: try flatly, litera, lux, minty or zephyr.\nGiving both light and dark adds a toggle to the navigation bar.\nrespect-user-color-scheme: true starts in whatever the visitor’s computer uses (Quarto 1.7 or later).\nNew projects start with theme: [cosmo, brand]; replace it with the block on the left.\n\n\n\n\n\nChange cosmo to minty live, save, show it reload. Then switch the system to dark mode if the projector allows."
+  },
+  {
+    "objectID": "talks/slides.html#writing-pages-in-markdown",
+    "href": "talks/slides.html#writing-pages-in-markdown",
+    "title": "Darius Michienzi",
+    "section": "Writing pages in Markdown",
+    "text": "Writing pages in Markdown\n\n\n\n\nresearch.qmd\n\n---\ntitle: \"Research\"\n---\n\n## Current project\n\nI model how the shape of the corona\nchanges the illumination of the disc.\n\n::: {.callout-note}\n## Paper in preparation\nPapers will be listed on\n[NASA ADS](https://ui.adsabs.harvard.edu/).\n:::\n\n![](images/figure.png){width=80%}\n\n\n\n\n\nYou type\nYou get\n\n\n\n\n## Heading\nA section heading\n\n\n**bold**, *italic*\nbold, italic\n\n\n[text](https://...)\nA link\n\n\n[text](talks.qmd)\nA link to your own page\n\n\n![](images/fig.png)\nAn image\n\n\n::: {.callout-note}\nA highlighted box\n\n\n- item\nA bullet list\n\n\n\n\nLinking your own pages Link to the .qmd file. Quarto rewrites it to the right .html address for you.\n\n\n\n\nNothing new here for anyone who has written a README. Callouts are the one Quarto-specific thing worth showing."
+  },
+  {
+    "objectID": "talks/slides.html#a-home-page-in-a-few-lines-of-yaml",
+    "href": "talks/slides.html#a-home-page-in-a-few-lines-of-yaml",
+    "title": "Darius Michienzi",
+    "section": "A home page in a few lines of YAML",
+    "text": "A home page in a few lines of YAML\n\n\n\n\n\nindex.qmd (header only)\n\n---\ntitle: \"Darius Michienzi\"\nsubtitle: \"PhD student in astrophysics\"\ntoc: false\nimage: images/profile.jpg\nabout:\n  template: trestles\n  image-shape: round\n  image-width: 12em\n  links:\n    - icon: github\n      text: GitHub\n      href: https://github.com/DariusMichienzi\n    - icon: envelope\n      text: Email\n      href: mailto:darius.michienzi@bristol.ac.uk\n    - text: ORCID\n      href: https://orcid.org/0009-0003-0123-9718\n---\n\n\n\n\n\n\nResult. Photo, name and links on the left; the page text on the right.\n\n\n\nThe only new idea The about: block turns an ordinary page into a profile page. Put a square photo in images/ and point image: at it.\n\n\n\n\nPaste the header into index.qmd, drop in a photo, save. This is the moment it starts to look like a real site."
+  },
+  {
+    "objectID": "talks/slides.html#five-built-in-templates-change-one-word",
+    "href": "talks/slides.html#five-built-in-templates-change-one-word",
+    "title": "Darius Michienzi",
+    "section": "Five built-in templates: change one word",
+    "text": "Five built-in templates: change one word\n\n\n\n\njolla\n\n\n\n\n\ntrestles\n\n\n\n\n\nsolana\n\n\n\n\n\nmarquee\n\n\n\n\n\nbroadside\n\n\n\n\n\n\n\nindex.qmd\n\nabout:\n  template: solana\n\n\n\n\njolla: centred photo, text below. Simple and calm.\ntrestles: photo and links beside the text. Good for a long bio.\nsolana, marquee, broadside: bigger photo, more of a “landing page” feel.\n\n\n\n\n\nTry them live Change the template, save, and the preview reloads. Pick whichever suits your photo and how much you want to write.\n\n\nCycle through all five live: it takes about thirty seconds and people enjoy it."
+  },
+  {
+    "objectID": "talks/slides.html#more-pages-and-a-list-of-talks",
+    "href": "talks/slides.html#more-pages-and-a-list-of-talks",
+    "title": "Darius Michienzi",
+    "section": "More pages, and a list of talks",
+    "text": "More pages, and a list of talks\n\n\n\n\n\ntalks.qmd\n\n---\ntitle: \"Talks\"\nlisting:\n  contents: talks\n  type: table\n  sort: \"date desc\"\n  fields: [date, title, location]\n---\n\n\n\ntalks/nam2026.qmd\n\n---\ntitle: \"Geometric models of the corona\"\ndate: 2026-07-21\nlocation: \"NAM 2026, Birmingham\"\n---\n\nSlides and abstract go here.\n\n\nNew page = new .qmd file + one line in the navbar. Forgetting the navbar line is the most common reason a page “doesn’t exist”.\n\n\n\n\nResult. A sorted table built from the files in talks/. Each title links to its own page.\n\n\n\nListings A listing collects every page in a folder. Use type: table for talks, or type: default for a news or blog page with dates and summaries.\n\n\n\n\nMake research.qmd first (copy from the previous slide), add it to the navbar. Then the talks folder with two entries."
+  },
+  {
+    "objectID": "talks/slides.html#your-cv-and-other-pdfs",
+    "href": "talks/slides.html#your-cv-and-other-pdfs",
+    "title": "Darius Michienzi",
+    "section": "Your CV and other PDFs",
+    "text": "Your CV and other PDFs\n\n\n\nPut PDFs in a files/ folder inside the project.\nLink to a file and Quarto copies it into _site/ automatically.\nA file nothing links to is left out. List it under resources: so it is copied anyway.\n{target=\"_blank\"} opens a PDF in a new tab instead of replacing your site.\n\n\nGitHub won’t build your CV It doesn’t run LaTeX. Compile the CV on your laptop (or Overleaf) and commit the PDF. Update it the same way.\n\n\n\n\nAny page\n\n[Download my CV](files/cv.pdf){target=\"_blank\"}\n\n\n\n_quarto.yml: one item in navbar → left\n\n- text: CV\n  href: files/cv.pdf\n  target: _blank\n\n\n\n_quarto.yml: copy unlinked files\n\nproject:\n  type: website\n  resources:\n    - files/\n\n\n\n\nI host my CV and my MSci report this way. Keep the file name stable (cv.pdf) so links from elsewhere never break."
+  },
+  {
+    "objectID": "talks/slides.html#two-ways-to-publish-on-github-pages",
+    "href": "talks/slides.html#two-ways-to-publish-on-github-pages",
+    "title": "Darius Michienzi",
+    "section": "Two ways to publish on GitHub Pages",
+    "text": "Two ways to publish on GitHub Pages\n\n\n\n\n\n\n\n\n\nA · quarto publish\nB · GitHub Actions\n\n\n\n\nWho builds the site\nYour laptop\nA GitHub server, on every push\n\n\nWhat you run to update\nquarto publish gh-pages\ngit push\n\n\nBuilt site lives in\na gh-pages branch\nGitHub’s Pages storage\n\n\nSettings → Pages → Source\nDeploy from a branch: gh-pages\nGitHub Actions\n\n\nGood for\nGetting live in five minutes\nSet it up once and forget it\n\n\n\n\n\nName the repository username.github.io Then the site appears at https://username.github.io. Any other name gives https://username.github.io/reponame/, which is fine for a project or a test.\n\n\nOne user site per account Each GitHub account gets exactly one username.github.io. If you already have one, build today’s site in a repo with another name.\n\n\n\nRoute A today because it is quickest. Route B is what I use on my own site; it’s on the next-but-one slide."
+  },
+  {
+    "objectID": "talks/slides.html#route-a-live-in-five-minutes",
+    "href": "talks/slides.html#route-a-live-in-five-minutes",
+    "title": "Darius Michienzi",
+    "section": "Route A: live in five minutes",
+    "text": "Route A: live in five minutes\n\n\n\n\n\nTerminal, inside mysite/\n\ngit init -b main\ngit add .\ngit commit -m \"First version of my site\"\ngit remote add origin https://github.com/USERNAME/USERNAME.github.io.git\ngit push -u origin main\nquarto publish gh-pages\n\n\n\n.gitignore (create this before git add)\n\n/.quarto/\n/_site/\n\n\n\n\n\nFirst, on github.com New repository → name it USERNAME.github.io → Public → no README, licence or .gitignore (they make the first push clash).\n\n\nThen quarto publish gh-pages asks to confirm, builds, and pushes the site to a gh-pages branch. In the repository: Settings → Pages → Deploy from a branch → gh-pages / (root).\n\n\nWait a minute The first deployment takes 1–2 minutes. After that, re-run quarto publish gh-pages whenever you want to update.\n\n\n\n\n\nCreate the .gitignore before git add. Have a GitHub token or SSH key ready: the push is where people get stuck."
+  },
+  {
+    "objectID": "talks/slides.html#route-b-rebuild-on-every-push",
+    "href": "talks/slides.html#route-b-rebuild-on-every-push",
+    "title": "Darius Michienzi",
+    "section": "Route B: rebuild on every push",
+    "text": "Route B: rebuild on every push\n\n\n\n\n\n.github/workflows/publish.yml\n\nname: Publish website\non:\n  push:\n    branches: [main]\n  workflow_dispatch:\npermissions:\n  contents: read\n  pages: write\n  id-token: write\njobs:\n  build:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v7\n      - uses: quarto-dev/quarto-actions/setup@v2\n      - uses: quarto-dev/quarto-actions/render@v2\n      - uses: actions/upload-pages-artifact@v5\n        with:\n          path: _site\n  deploy:\n    needs: build\n    runs-on: ubuntu-latest\n    environment:\n      name: github-pages\n      url: ${{ steps.deployment.outputs.page_url }}\n    steps:\n      - id: deployment\n        uses: actions/deploy-pages@v5\n\n\n\n\n\nSet up once Save the file at exactly this path. In the repository: Settings → Pages → Source → GitHub Actions. Then push.\n\n\nFrom then on Every git push to main rebuilds and redeploys. Watch progress in the Actions tab. A red cross means the build failed; click it to see why.\n\n\nCode in your pages? If pages run Python or Julia, add execute: freeze: auto to _quarto.yml and commit the _freeze/ folder. GitHub then reuses your results instead of re-running the code.\n\n\n\n\n\nCopy the file from demo-site. Switching from A to B later is fine: change the Pages source and push."
+  },
+  {
+    "objectID": "talks/slides.html#making-it-yours",
+    "href": "talks/slides.html#making-it-yours",
+    "title": "Darius Michienzi",
+    "section": "Making it yours",
+    "text": "Making it yours\n\n\nStyle\n\nYour own look\nAdd rules to styles.css, or switch to a .scss file to change theme colours and fonts everywhere at once.\n\n\n\nFigures\n\nInteractive plots\nPages can run plain JavaScript or Observable JS. My home page has a small interactive figure of disc illumination.\n\n\n\nPublications\n\nLink, don’t retype\nMake a NASA ADS public library and link it from a Publications page, so the list stays current by itself.\n\n\n\nNews\n\nA “Recent” list or blog\nA short list on the home page, or a listing page of dated posts, shows the site is alive.\n\n\n\nAddress\n\nCustom domain\nBuy a domain and add it under Settings → Pages → Custom domain. Optional; github.io is perfectly normal.\n\n\n\nSearch\n\nAlready built in\nEvery Quarto site has full-text search (the magnifying glass). Nothing to set up.\n\n\n\n\nOnly if time allows. Pick one or two to show, probably the ADS library and the interactive figure on my site."
+  },
+  {
+    "objectID": "talks/slides.html#keeping-it-alive",
+    "href": "talks/slides.html#keeping-it-alive",
+    "title": "Darius Michienzi",
+    "section": "Keeping it alive",
+    "text": "Keeping it alive\n\n\n1 · Edit Change a .qmd file\n\n\n2 · Preview quarto preview\n\n\n3 · Commit git commit -am \"Add NAM talk\"\n\n\n4 · Publish git push (B) or quarto publish gh-pages (A)\n\n\n\n\n\nLink to it everywhere: CV header, LinkedIn, ORCID, GitHub profile, email signature.\nUpdate after each talk or paper. Five minutes then saves an afternoon before a job application.\nUse an email address that will outlive your PhD before you leave.\nCheck the links once a term. External pages move.\n\n\n\nThe bar is low A small site that is up to date is better than one that stopped in 2024. Start with a home page and a CV; add the rest later.\n\n\n\n\nThis is the real work: the site takes an hour to build and a few minutes a month to keep useful."
+  },
+  {
+    "objectID": "talks/slides.html#your-turn",
+    "href": "talks/slides.html#your-turn",
+    "title": "Darius Michienzi",
+    "section": "Your turn",
+    "text": "Your turn\n\n\n\n\n\n\n\n\n\nDo this\nDone when\n\n\n\n\n1\nquarto create project website mysite \"Your Name\" then quarto preview\nYour name is in the browser tab\n\n\n2\nEdit _quarto.yml: title, navbar, light and dark themes\nThe toggle switches the theme\n\n\n3\nTurn index.qmd into an about page with a photo and links\nYour photo appears on the home page\n\n\n4\nAdd research.qmd and your CV in files/\nBoth are in the navbar and open\n\n\n5\nCreate the GitHub repo, push, quarto publish gh-pages\nIt loads on your phone\n\n\n\n\n\n\n\nLeave this slide up for the whole hands-on part. Walk round; most problems will be at step 5."
+  },
+  {
+    "objectID": "talks/slides.html#take-home-messages",
+    "href": "talks/slides.html#take-home-messages",
+    "title": "Darius Michienzi",
+    "section": "Take-home messages",
+    "text": "Take-home messages\n\n\n\nA Quarto website is Markdown files + one _quarto.yml, built into a folder of plain HTML.\nquarto preview while writing; quarto publish gh-pages or GitHub Actions to go live.\nThe about: block gives you a professional home page in about fifteen lines.\nLink PDFs and Quarto copies them; commit your compiled CV.\nKeep _site/ and .quarto/ out of Git, and watch out for hidden files.\nSmall and current beats big and stale.\n\n\n\nLinks\nQuarto websites: quarto.org/docs/websites\nAbout pages: …/websites/website-about\nListings: …/websites/website-listings\nPublishing to GitHub Pages: …/publishing/github-pages\nThemes: …/output-formats/html-themes\nMy site: dariusmichienzi.github.io\n\n\n\n\nPoint at the links slide and say the slides, the script and demo-site will be shared afterwards."
+  },
+  {
+    "objectID": "talks/slides.html#section-1",
+    "href": "talks/slides.html#section-1",
+    "title": "Darius Michienzi",
+    "section": "",
+    "text": "Astrophysics Developer Group · tutorial and live demo\n\n\n\nAny other business\n\n\nPub?\n\n\n\nDarius Michienzi\n\n\nAstrophysics Group, School of Physics, University of Bristol\ndariusmichienzi.github.io\n\n\n\n\nWelcome. By the end of the session everyone should have a website that is live on the internet, or be one push away from it. Mostly live demo; the slides are there to come back to."
+  },
+  {
+    "objectID": "talks/slides.html#backup-command-cheat-sheet",
+    "href": "talks/slides.html#backup-command-cheat-sheet",
+    "title": "Darius Michienzi",
+    "section": "Backup: command cheat sheet",
+    "text": "Backup: command cheat sheet\n\n\n\n\n\n\n\nCommand\nWhat it does\n\n\n\n\nquarto create project website mysite \"Title\"\nMake a new website project\n\n\nquarto preview\nBuild and open a live-reloading local copy\n\n\nquarto render\nBuild the whole site into _site/ once\n\n\nquarto publish gh-pages\nBuild and push to the gh-pages branch (Route A)\n\n\nquarto check\nShow what Quarto can find on your computer\n\n\ngit status\nSee what has changed since the last commit\n\n\ngit add . && git commit -m \"message\"\nSave a snapshot of every change\n\n\ngit push\nSend commits to GitHub (rebuilds the site with Route B)\n\n\nls -a\nList files, including hidden ones like .github/ and .gitignore"
+  },
+  {
+    "objectID": "talks/slides.html#backup-troubleshooting",
+    "href": "talks/slides.html#backup-troubleshooting",
+    "title": "Darius Michienzi",
+    "section": "Backup: troubleshooting",
+    "text": "Backup: troubleshooting\n\n\n\n\n\n\n\n\nSymptom\nLikely cause\nFix\n\n\n\n\nThe site shows the README\nPages is serving the repo, not the built site\nCheck Settings → Pages source; check .github/ was pushed\n\n\n404 at username.github.io\nRepo name typo, or the first deploy is still running\nRename the repo; wait 2 minutes; check the Actions tab\n\n\nA page is missing\nNot in the navbar, or file not saved\nAdd it under navbar: left:\n\n\nPDF link gives 404\nFile not linked anywhere and not in resources:\nLink it, or add files/ under resources:\n\n\nYAML error on render\nTabs, or wrong indentation\nUse spaces; align with the line above\n\n\ngit push asks for a password and fails\nGitHub no longer accepts passwords\nUse a personal access token, SSH, or gh auth login\n\n\nActions build fails\nCode in a page needs a package GitHub doesn’t have\nfreeze: auto and commit _freeze/"
+  },
+  {
+    "objectID": "talks/DevGroup.html#section",
+    "href": "talks/DevGroup.html#section",
+    "title": "Darius Michienzi",
+    "section": "",
+    "text": "Astrophysics Developer Group · tutorial and live demo\n\n\n\nBuild your own academic website with Quarto\n\n\nWins\n\n\nIssues\n\n\nNews\n\n\nBackup reminder\n\n\nBuild your own academic website with Quarto\n\n\n\nDarius Michienzi\n\n\nAstrophysics Group, School of Physics, University of Bristol\ndariusmichienzi.github.io\n\n\n\n\nWelcome. By the end of the session everyone should have a website that is live on the internet, or be one push away from it. Mostly live demo; the slides are there to come back to."
+  },
+  {
+    "objectID": "talks/DevGroup.html#the-plan-for-today",
+    "href": "talks/DevGroup.html#the-plan-for-today",
+    "title": "Darius Michienzi",
+    "section": "The plan for today",
+    "text": "The plan for today\n\n\nStep 1\nCreate\nMake a project with one command and preview it in your browser.\n\n\nStep 2\nConfigure\nSet the title, navigation bar and theme in one file, _quarto.yml.\n\n\nStep 3\nWrite\nAdd a home page, research and talks pages, and your CV.\n\n\nStep 4\nPublish\nPush to GitHub and let GitHub Pages host it for free.\n\n\n\nGoal By the end you have a live site at username.github.io that rebuilds itself every time you push a change.\n\nThe slides and notes will be made available after the presentation\n\nFour steps. Steps 1 to 3 happen on your laptop and nobody can see them yet. Step 4 is when it goes public."
+  },
+  {
+    "objectID": "talks/DevGroup.html#what-youll-build",
+    "href": "talks/DevGroup.html#what-youll-build",
+    "title": "Darius Michienzi",
+    "section": "What you’ll build",
+    "text": "What you’ll build\n\n\n\n\n\nThe demo site built today, shown in light mode. Same source, dark mode on the next slides.\n\n\n\n\nPeople look you up after a talk, before an interview, when reviewing an application. A site is the page you control.\nOne place that links your CV, ORCID, ADS library, GitHub and talks.\nQuarto turns plain Markdown files into a clean, searchable website with light and dark modes.\nHosting on GitHub Pages is free, and there is no server to look after.\n\n\n Quarto also makes notebooks, papers and slides. This presentation is a Quarto file, written the same way as the website.\n\n\n\nShow my own site briefly in a browser tab here, then come back."
+  },
+  {
+    "objectID": "talks/DevGroup.html#how-the-pieces-fit-together",
+    "href": "talks/DevGroup.html#how-the-pieces-fit-together",
+    "title": "Darius Michienzi",
+    "section": "How the pieces fit together",
+    "text": "How the pieces fit together\n\n\n\nOn your laptop You edit .qmd files: Markdown text with a short YAML header. quarto preview shows the result as you type.\n\n\nThe build quarto render turns the project into ordinary HTML, CSS and JavaScript in a folder called _site/.\n\n\nOn GitHub The repository holds the source. GitHub Pages serves the built site at username.github.io.\n\n\n\n The finished website is just a folder of files. That’s why hosting it costs nothing and almost nothing can break.\n\n\nThe one idea to hold onto: you edit source files, Quarto builds plain files, GitHub serves them."
+  },
+  {
+    "objectID": "talks/DevGroup.html#before-you-start",
+    "href": "talks/DevGroup.html#before-you-start",
+    "title": "Darius Michienzi",
+    "section": "Before you start",
+    "text": "Before you start\n\n\nInstall\nQuarto\nquarto.org → Get started\n\n\nEditor\nVS Code\nor whatever you prefer\n\n\nVersion control\nGit\nplus your name and email set\n\n\nHosting\nGitHub\na free account\n\n\n\n\n\n\nTerminal: check everything works\n\nquarto check\ngit --version\n\n\n\nIf something is missing quarto check lists what Quarto found. You only need the Quarto part to pass; Python, R and Julia are optional for a website.\n\n\n\nMost people should have done this from the pre-session email. Give two minutes for anyone who hasn’t."
+  },
+  {
+    "objectID": "talks/DevGroup.html#create-a-project-and-preview-it",
+    "href": "talks/DevGroup.html#create-a-project-and-preview-it",
+    "title": "Darius Michienzi",
+    "section": "Create a project and preview it",
+    "text": "Create a project and preview it\n\n\n\n\nTerminal\n\nquarto create project website mysite \"My Site\"\ncd mysite\nquarto preview\n\n\nquarto create makes a folder with four starter files.\nquarto preview builds the site and opens it in your browser.\nLeave it running. Every time you save, the page reloads.\n\n\n\n\nWhat you should see A page titled “My Site” with Home and About in the navigation bar, at an address like http://localhost:4200.\n\n\nIn VS Code Open the mysite folder, then use the Preview button on any .qmd file instead of the terminal.\n\n\nStop the preview Ctrl+C in the terminal. Run quarto preview again whenever you come back.\n\n\n\n\nType it live. Point out how fast the preview is. Edit index.qmd, save, and watch it reload."
+  },
+  {
+    "objectID": "talks/DevGroup.html#whats-in-the-folder",
+    "href": "talks/DevGroup.html#whats-in-the-folder",
+    "title": "Darius Michienzi",
+    "section": "What’s in the folder",
+    "text": "What’s in the folder\n\n\n\n\n\n\n\n\n\nFile\nWhat it does\n\n\n\n\n_quarto.yml\nSettings for the whole site: title, navigation, theme\n\n\nindex.qmd\nThe home page. Becomes index.html\n\n\nabout.qmd\nAn example second page. Rename or delete it\n\n\nstyles.css\nYour own CSS tweaks (empty to start)\n\n\n_site/\nThe built website. Never edit it: it is overwritten on every build\n\n\n.quarto/\nQuarto’s cache. Ignore it\n\n\n\n\n\n\nindex.qmd\n\n---\ntitle: \"My Site\"\n---\n\nThis is a Quarto website.\n\n\nAnatomy of a .qmd file A YAML header between the --- lines holds settings for that page. Everything below it is ordinary Markdown.\n\n\n\nEach .qmd file becomes one page. The only “special” file is _quarto.yml."
+  },
+  {
+    "objectID": "talks/DevGroup.html#quarto.yml-what-controls-the-whole-site",
+    "href": "talks/DevGroup.html#quarto.yml-what-controls-the-whole-site",
+    "title": "Darius Michienzi",
+    "section": "_quarto.yml: what controls the whole site",
+    "text": "_quarto.yml: what controls the whole site\n\n\n\n\n\n_quarto.yml\n\nproject:\n  type: website\n\nwebsite:\n  title: \"Darius Michienzi\"\n  navbar:\n    left:\n      - href: index.qmd\n        text: Home\n      - research.qmd\n      - talks.qmd\n      - text: CV\n        href: files/cv.pdf\n    right:\n      - icon: github\n        href: https://github.com/DariusMichienzi\n        aria-label: GitHub\n  page-footer:\n    center: \"© 2026 Darius Michienzi\"\n\nformat:\n  html:\n    theme:\n      light: cosmo\n      dark: darkly\n    respect-user-color-scheme: true\n    css: styles.css\n    toc: true\n\n\n\n\n\nwebsite → navbar Pages in the order they appear. A page listed by file name takes its title as the link text. icon: uses any Bootstrap icon name.\n\n\npage-footer Text at the bottom of every page: left, center or right.\n\n\nformat → html How every page looks: theme, your CSS, and a table of contents on the right.\n\n\nIndentation matters YAML uses spaces, never tabs.\n\n\n\n\nStep through the highlighted parts with the arrow keys. Edit the title live so they see it change."
+  },
+  {
+    "objectID": "talks/DevGroup.html#light-dark-and-following-the-visitor",
+    "href": "talks/DevGroup.html#light-dark-and-following-the-visitor",
+    "title": "Darius Michienzi",
+    "section": "Light, dark, and following the visitor",
+    "text": "Light, dark, and following the visitor\n\n\n\n\nlight: cosmo\n\n\n\n\n\ndark: darkly\n\n\n\n\n\n\n\n_quarto.yml\n\nformat:\n  html:\n    theme:\n      light: cosmo\n      dark: darkly\n    respect-user-color-scheme: true\n\n\n\n\nAny of the 25 Bootswatch themes works: try flatly, litera, lux, minty or zephyr.\nGiving both light and dark adds a toggle to the navigation bar.\nrespect-user-color-scheme: true starts in whatever the visitor’s computer uses (Quarto 1.7 or later).\nNew projects start with theme: [cosmo, brand]; replace it with the block on the left.\n\n\n\n\nChange cosmo to minty live, save, show it reload. Then switch the system to dark mode if the projector allows."
+  },
+  {
+    "objectID": "talks/DevGroup.html#writing-pages-in-markdown",
+    "href": "talks/DevGroup.html#writing-pages-in-markdown",
+    "title": "Darius Michienzi",
+    "section": "Writing pages in Markdown",
+    "text": "Writing pages in Markdown\n\n\n\n\nresearch.qmd\n\n---\ntitle: \"Research\"\n---\n\n## Current project\n\nI model how the shape of the corona\nchanges the illumination of the disc.\n\n::: {.callout-note}\n## Paper in preparation\nPapers will be listed on\n[NASA ADS](https://ui.adsabs.harvard.edu/).\n:::\n\n![](images/figure.png){width=80%}\n\n\n\n\n\nYou type\nYou get\n\n\n\n\n## Heading\nA section heading\n\n\n**bold**, *italic*\nbold, italic\n\n\n[text](https://...)\nA link\n\n\n[text](talks.qmd)\nA link to your own page\n\n\n![](images/fig.png)\nAn image\n\n\n::: {.callout-note}\nA highlighted box\n\n\n- item\nA bullet list\n\n\n\n\nLinking your own pages Link to the .qmd file. Quarto rewrites it to the right .html address for you.\n\n\n\nNothing new here for anyone who has written a README. Callouts are the one Quarto-specific thing worth showing."
+  },
+  {
+    "objectID": "talks/DevGroup.html#a-home-page-in-a-few-lines-of-yaml",
+    "href": "talks/DevGroup.html#a-home-page-in-a-few-lines-of-yaml",
+    "title": "Darius Michienzi",
+    "section": "A home page in a few lines of YAML",
+    "text": "A home page in a few lines of YAML\n\n\n\n\n\nindex.qmd (header only)\n\n---\ntitle: \"Darius Michienzi\"\nsubtitle: \"PhD student in astrophysics\"\ntoc: false\nimage: images/profile.jpg\nabout:\n  template: trestles\n  image-shape: round\n  image-width: 12em\n  links:\n    - icon: github\n      text: GitHub\n      href: https://github.com/DariusMichienzi\n    - icon: envelope\n      text: Email\n      href: mailto:darius.michienzi@bristol.ac.uk\n    - text: ORCID\n      href: https://orcid.org/0009-0003-0123-9718\n---\n\n\n\n\n\n\nResult. Photo, name and links on the left; the page text on the right.\n\n\n\nThe only new idea The about: block turns an ordinary page into a profile page. Put a square photo in images/ and point image: at it.\n\n\n\nPaste the header into index.qmd, drop in a photo, save. This is the moment it starts to look like a real site."
+  },
+  {
+    "objectID": "talks/DevGroup.html#five-built-in-templates-change-one-word",
+    "href": "talks/DevGroup.html#five-built-in-templates-change-one-word",
+    "title": "Darius Michienzi",
+    "section": "Five built-in templates: change one word",
+    "text": "Five built-in templates: change one word\n\n\n\n\njolla\n\n\n\n\n\ntrestles\n\n\n\n\n\nsolana\n\n\n\n\n\nmarquee\n\n\n\n\n\nbroadside\n\n\n\n\n\n\n\nindex.qmd\n\nabout:\n  template: solana\n\n\n\n\njolla: centred photo, text below. Simple and calm.\ntrestles: photo and links beside the text. Good for a long bio.\nsolana, marquee, broadside: bigger photo, more of a “landing page” feel.\n\n\n\n\nTry them live Change the template, save, and the preview reloads. Pick whichever suits your photo and how much you want to write.\n\n\nCycle through all five live: it takes about thirty seconds and people enjoy it."
+  },
+  {
+    "objectID": "talks/DevGroup.html#more-pages-and-a-list-of-talks",
+    "href": "talks/DevGroup.html#more-pages-and-a-list-of-talks",
+    "title": "Darius Michienzi",
+    "section": "More pages, and a list of talks",
+    "text": "More pages, and a list of talks\n\n\n\n\n\ntalks.qmd\n\n---\ntitle: \"Talks\"\nlisting:\n  contents: talks\n  type: table\n  sort: \"date desc\"\n  fields: [date, title, location]\n---\n\n\n\ntalks/nam2026.qmd\n\n---\ntitle: \"Geometric models of the corona\"\ndate: 2026-07-21\nlocation: \"NAM 2026, Birmingham\"\n---\n\nSlides and abstract go here.\n\n\nNew page = new .qmd file + one line in the navbar. Forgetting the navbar line is the most common reason a page “doesn’t exist”.\n\n\n\n\nResult. A sorted table built from the files in talks/. Each title links to its own page.\n\n\n\nListings A listing collects every page in a folder. Use type: table for talks, or type: default for a news or blog page with dates and summaries.\n\n\n\nMake research.qmd first (copy from the previous slide), add it to the navbar. Then the talks folder with two entries."
+  },
+  {
+    "objectID": "talks/DevGroup.html#your-cv-and-other-pdfs",
+    "href": "talks/DevGroup.html#your-cv-and-other-pdfs",
+    "title": "Darius Michienzi",
+    "section": "Your CV and other PDFs",
+    "text": "Your CV and other PDFs\n\n\n\nPut PDFs in a files/ folder inside the project.\nLink to a file and Quarto copies it into _site/ automatically.\nA file nothing links to is left out. List it under resources: so it is copied anyway.\n{target=\"_blank\"} opens a PDF in a new tab instead of replacing your site.\n\n\nGitHub won’t build your CV It doesn’t run LaTeX. Compile the CV on your laptop (or Overleaf) and commit the PDF. Update it the same way.\n\n\n\n\nAny page\n\n[Download my CV](files/cv.pdf){target=\"_blank\"}\n\n\n\n_quarto.yml: one item in navbar → left\n\n- text: CV\n  href: files/cv.pdf\n  target: _blank\n\n\n\n_quarto.yml: copy unlinked files\n\nproject:\n  type: website\n  resources:\n    - files/\n\n\n\nI host my CV and my MSci report this way. Keep the file name stable (cv.pdf) so links from elsewhere never break."
+  },
+  {
+    "objectID": "talks/DevGroup.html#two-ways-to-publish-on-github-pages",
+    "href": "talks/DevGroup.html#two-ways-to-publish-on-github-pages",
+    "title": "Darius Michienzi",
+    "section": "Two ways to publish on GitHub Pages",
+    "text": "Two ways to publish on GitHub Pages\n\n\n\n\n\n\n\n\n\nA · quarto publish\nB · GitHub Actions\n\n\n\n\nWho builds the site\nYour laptop\nA GitHub server, on every push\n\n\nWhat you run to update\nquarto publish gh-pages\ngit push\n\n\nBuilt site lives in\na gh-pages branch\nGitHub’s Pages storage\n\n\nSettings → Pages → Source\nDeploy from a branch: gh-pages\nGitHub Actions\n\n\nGood for\nGetting live in five minutes\nSet it up once and forget it\n\n\n\n\n\nName the repository username.github.io Then the site appears at https://username.github.io. Any other name gives https://username.github.io/reponame/, which is fine for a project or a test.\n\n\nOne user site per account Each GitHub account gets exactly one username.github.io. If you already have one, build today’s site in a repo with another name.\n\n\n\nRoute A today because it is quickest. Route B is what I use on my own site; it’s on the next-but-one slide."
+  },
+  {
+    "objectID": "talks/DevGroup.html#route-a-live-in-five-minutes",
+    "href": "talks/DevGroup.html#route-a-live-in-five-minutes",
+    "title": "Darius Michienzi",
+    "section": "Route A: live in five minutes",
+    "text": "Route A: live in five minutes\n\n\n\n\n\nTerminal, inside mysite/\n\ngit init -b main\ngit add .\ngit commit -m \"First version of my site\"\ngit remote add origin https://github.com/USERNAME/USERNAME.github.io.git\ngit push -u origin main\nquarto publish gh-pages\n\n\n\n.gitignore (create this before git add)\n\n/.quarto/\n/_site/\n\n\n\n\n\nFirst, on github.com New repository → name it USERNAME.github.io → Public → no README, licence or .gitignore (they make the first push clash).\n\n\nThen quarto publish gh-pages asks to confirm, builds, and pushes the site to a gh-pages branch. In the repository: Settings → Pages → Deploy from a branch → gh-pages / (root).\n\n\nWait a minute The first deployment takes 1–2 minutes. After that, re-run quarto publish gh-pages whenever you want to update.\n\n\n\n\nCreate the .gitignore before git add. Have a GitHub token or SSH key ready: the push is where people get stuck."
+  },
+  {
+    "objectID": "talks/DevGroup.html#route-b-rebuild-on-every-push",
+    "href": "talks/DevGroup.html#route-b-rebuild-on-every-push",
+    "title": "Darius Michienzi",
+    "section": "Route B: rebuild on every push",
+    "text": "Route B: rebuild on every push\n\n\n\n\n\n.github/workflows/publish.yml\n\nname: Publish website\non:\n  push:\n    branches: [main]\n  workflow_dispatch:\npermissions:\n  contents: read\n  pages: write\n  id-token: write\njobs:\n  build:\n    runs-on: ubuntu-latest\n    steps:\n      - uses: actions/checkout@v7\n      - uses: quarto-dev/quarto-actions/setup@v2\n      - uses: quarto-dev/quarto-actions/render@v2\n      - uses: actions/upload-pages-artifact@v5\n        with:\n          path: _site\n  deploy:\n    needs: build\n    runs-on: ubuntu-latest\n    environment:\n      name: github-pages\n      url: ${{ steps.deployment.outputs.page_url }}\n    steps:\n      - id: deployment\n        uses: actions/deploy-pages@v5\n\n\n\n\n\nSet up once Save the file at exactly this path. In the repository: Settings → Pages → Source → GitHub Actions. Then push.\n\n\nFrom then on Every git push to main rebuilds and redeploys. Watch progress in the Actions tab. A red cross means the build failed; click it to see why.\n\n\nCode in your pages? If pages run Python or Julia, add execute: freeze: auto to _quarto.yml and commit the _freeze/ folder. GitHub then reuses your results instead of re-running the code.\n\n\n\n\nCopy the file from demo-site. Switching from A to B later is fine: change the Pages source and push."
+  },
+  {
+    "objectID": "talks/DevGroup.html#making-it-yours",
+    "href": "talks/DevGroup.html#making-it-yours",
+    "title": "Darius Michienzi",
+    "section": "Making it yours",
+    "text": "Making it yours\n\n\nStyle\nYour own look\nAdd rules to styles.css, or switch to a .scss file to change theme colours and fonts everywhere at once.\n\n\nFigures\nInteractive plots\nPages can run plain JavaScript or Observable JS. My home page has a small interactive figure of disc illumination.\n\n\nPublications\nLink, don’t retype\nMake a NASA ADS public library and link it from a Publications page, so the list stays current by itself.\n\n\nNews\nA “Recent” list or blog\nA short list on the home page, or a listing page of dated posts, shows the site is alive.\n\n\nAddress\nCustom domain\nBuy a domain and add it under Settings → Pages → Custom domain. Optional; github.io is perfectly normal.\n\n\nSearch\nAlready built in\nEvery Quarto site has full-text search (the magnifying glass). Nothing to set up.\n\n\n\nOnly if time allows. Pick one or two to show, probably the ADS library and the interactive figure on my site."
+  },
+  {
+    "objectID": "talks/DevGroup.html#keeping-it-alive",
+    "href": "talks/DevGroup.html#keeping-it-alive",
+    "title": "Darius Michienzi",
+    "section": "Keeping it alive",
+    "text": "Keeping it alive\n\n\n1 · Edit Change a .qmd file\n\n\n2 · Preview quarto preview\n\n\n3 · Commit git commit -am \"Add NAM talk\"\n\n\n4 · Publish git push (B) or quarto publish gh-pages (A)\n\n\n\n\n\nLink to it everywhere: CV header, LinkedIn, ORCID, GitHub profile, email signature.\nUpdate after each talk or paper. Five minutes then saves an afternoon before a job application.\nUse an email address that will outlive your PhD before you leave.\nCheck the links once a term. External pages move.\n\n\n\nThe bar is low A small site that is up to date is better than one that stopped in 2024. Start with a home page and a CV; add the rest later.\n\n\n\nThis is the real work: the site takes an hour to build and a few minutes a month to keep useful."
+  },
+  {
+    "objectID": "talks/DevGroup.html#your-turn",
+    "href": "talks/DevGroup.html#your-turn",
+    "title": "Darius Michienzi",
+    "section": "Your turn",
+    "text": "Your turn\n\n\n\n\n\n\n\n\n\nDo this\nDone when\n\n\n\n\n1\nquarto create project website mysite \"Your Name\" then quarto preview\nYour name is in the browser tab\n\n\n2\nEdit _quarto.yml: title, navbar, light and dark themes\nThe toggle switches the theme\n\n\n3\nTurn index.qmd into an about page with a photo and links\nYour photo appears on the home page\n\n\n4\nAdd research.qmd and your CV in files/\nBoth are in the navbar and open\n\n\n5\nCreate the GitHub repo, push, quarto publish gh-pages\nIt loads on your phone\n\n\n\n\n\n\n\nLeave this slide up for the whole hands-on part. Walk round; most problems will be at step 5."
+  },
+  {
+    "objectID": "talks/DevGroup.html#take-home-messages",
+    "href": "talks/DevGroup.html#take-home-messages",
+    "title": "Darius Michienzi",
+    "section": "Take-home messages",
+    "text": "Take-home messages\n\n\n\nA Quarto website is Markdown files + one _quarto.yml, built into a folder of plain HTML.\nquarto preview while writing; quarto publish gh-pages or GitHub Actions to go live.\nThe about: block gives you a professional home page in about fifteen lines.\nLink PDFs and Quarto copies them; commit your compiled CV.\nKeep _site/ and .quarto/ out of Git, and watch out for hidden files.\nSmall and current beats big and stale.\n\n\n\nLinks\nQuarto websites: quarto.org/docs/websites\nAbout pages: …/websites/website-about\nListings: …/websites/website-listings\nPublishing to GitHub Pages: …/publishing/github-pages\nThemes: …/output-formats/html-themes\nMy site: dariusmichienzi.github.io\n\n\n\nPoint at the links slide and say the slides, the script and demo-site will be shared afterwards."
+  },
+  {
+    "objectID": "talks/DevGroup.html#section-1",
+    "href": "talks/DevGroup.html#section-1",
+    "title": "Darius Michienzi",
+    "section": "",
+    "text": "Astrophysics Developer Group · tutorial and live demo\n\n\n\nAny other business\n\n\nPub?\n\n\n\nDarius Michienzi\n\n\nAstrophysics Group, School of Physics, University of Bristol\ndariusmichienzi.github.io\n\n\n\n\nWelcome. By the end of the session everyone should have a website that is live on the internet, or be one push away from it. Mostly live demo; the slides are there to come back to."
+  },
+  {
+    "objectID": "talks/DevGroup.html#backup-command-cheat-sheet",
+    "href": "talks/DevGroup.html#backup-command-cheat-sheet",
+    "title": "Darius Michienzi",
+    "section": "Backup: command cheat sheet",
+    "text": "Backup: command cheat sheet\n\n\n\n\n\n\n\nCommand\nWhat it does\n\n\n\n\nquarto create project website mysite \"Title\"\nMake a new website project\n\n\nquarto preview\nBuild and open a live-reloading local copy\n\n\nquarto render\nBuild the whole site into _site/ once\n\n\nquarto publish gh-pages\nBuild and push to the gh-pages branch (Route A)\n\n\nquarto check\nShow what Quarto can find on your computer\n\n\ngit status\nSee what has changed since the last commit\n\n\ngit add . && git commit -m \"message\"\nSave a snapshot of every change\n\n\ngit push\nSend commits to GitHub (rebuilds the site with Route B)\n\n\nls -a\nList files, including hidden ones like .github/ and .gitignore"
+  },
+  {
+    "objectID": "talks/DevGroup.html#backup-troubleshooting",
+    "href": "talks/DevGroup.html#backup-troubleshooting",
+    "title": "Darius Michienzi",
+    "section": "Backup: troubleshooting",
+    "text": "Backup: troubleshooting\n\n\n\n\n\n\n\n\nSymptom\nLikely cause\nFix\n\n\n\n\nThe site shows the README\nPages is serving the repo, not the built site\nCheck Settings → Pages source; check .github/ was pushed\n\n\n404 at username.github.io\nRepo name typo, or the first deploy is still running\nRename the repo; wait 2 minutes; check the Actions tab\n\n\nA page is missing\nNot in the navbar, or file not saved\nAdd it under navbar: left:\n\n\nPDF link gives 404\nFile not linked anywhere and not in resources:\nLink it, or add files/ under resources:\n\n\nYAML error on render\nTabs, or wrong indentation\nUse spaces; align with the line above\n\n\ngit push asks for a password and fails\nGitHub no longer accepts passwords\nUse a personal access token, SSH, or gh auth login\n\n\nActions build fails\nCode in a page needs a package GitHub doesn’t have\nfreeze: auto and commit _freeze/"
+  },
+  {
+    "objectID": "talks/slides.html",
+    "href": "talks/slides.html",
+    "title": "Darius Michienzi",
+    "section": "",
+    "text": "Astrophysics Developer Group · tutorial and live demo\n\n\n\nBuild your own academic website with Quarto\n\n\nWins\n\n\nIssues\n\n\nNews\n\n\nBackup reminder\n\n\nBuild your own academic website with Quarto\n\n\n\nDarius Michienzi\n\n\nAstrophysics Group, School of Physics, University of Bristol\ndariusmichienzi.github.io\n\n\n\n\nWelcome. By the end of the session everyone should have a website that is live on the internet, or be one push away from it. Mostly live demo; the slides are there to come back to."
+  },
+  {
+    "objectID": "talks/DevGroup.html",
+    "href": "talks/DevGroup.html",
+    "title": "Build your own academic website with Quarto",
+    "section": "",
+    "text": "Download PDF file."
   }
 ]

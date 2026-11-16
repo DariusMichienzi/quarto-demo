@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - "files/Website.pdf"
 
 website:
   title: "Darius Michienzi"
@@ -8,7 +10,7 @@ website:
       - href: index.qmd
         text: Home
       - href: research.qmd
-        text: Resarch
+        text: Research
       - href: talks.qmd
         text: Talks
       - text: CV

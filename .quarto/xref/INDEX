@@ -16,5 +16,14 @@
   },
   "talks/devgroup2026.qmd": {
     "devgroup2026.html": "98d75395"
+  },
+  "research.qmd": {
+    "research.html": "5fcf5586"
+  },
+  "talks/slides.qmd": {
+    "slides.html": "7ca5b7c3"
+  },
+  "talks/DevGroup.qmd": {
+    "DevGroup.html": "be1747c2"
   }
 }

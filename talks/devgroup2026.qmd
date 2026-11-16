@@ -1,7 +1,0 @@
----
-title: "Build your own website with Quarto"
-date: 2026-11-13
-location: "Astrophysics Developer Group, Bristol"
----
-
-Slides and abstract go here.
